@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @gowdasudarshan
+- 👋 Hi, I’m Sudarshan D H
+- Currently working as IT support Engineer 
+- I have 3 year exiperence in system and network administrator and Computer Hardware and network technician 
+- I have working knowladge on AWS and Azure cloud
+- i have working knowledge on project managment tool like ( Asana, Jira, )
+- working exiprenece  on active diractry , Azure AD, Gsuite , O365, M365, Windows365
+- working experence on MDM tools like  intune and Jumpcloud
+- Working experance on SSO Okta
+- 
+
+
+
 - 👀 I’m interested in AWS cloud and CI/CD
 - 🌱 I’m currently learning AWS and CI/CD
 - 💞️ I’m looking to collaborate on ...

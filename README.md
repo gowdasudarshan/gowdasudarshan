@@ -1,15 +1,13 @@
-- 👋 Hi, I’m Sudarshan D H
-- Currently working as Associate cloud Engineer 
-- I have 3 year exiperence in system and network administrator and Computer Hardware and network technician 
-- I have working knowladge on AWS and Azure cloud
-- i have working knowledge on project managment tool like ( Asana, Jira, )
-- working exiprenece  on active diractry , Azure AD, Gsuite , O365, M365, Windows365
-- working experence on MDM tools like  intune and Jumpcloud
-- Working experance on SSO Okta
-- 👀 I’m interested in AWS cloud and CI/CD
-- 🌱 I’m currently learning AWS and CI/CD
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me on sudn9481@gmail.com
+### 🧑‍💻 About Me
+- 💼 Currently working as **Associate Cloud Engineer**  
+- 🖥️ 5 years of experience as **System & Network Administrator** and **Hardware Technician**  
+- ☁️ Skilled in **AWS** and **Microsoft Azure** **GCP** cloud environments  
+- 🧠 Experienced in **Active Directory**, **Azure AD**, **Gsuite**, **O365**, **M365**, **Windows 365**  
+- 🔒 Hands-on with **MDM tools** like **Intune** and **JumpCloud**  
+- 🔑 Experience with **SSO & Identity Management** using **Okta**  
+- 🧩 Working knowledge of **Project Management tools** – *Asana*, *Jira*  
+- 🚀 Passionate about **Cloud Infrastructure**, **Automation**, and **CI/CD Pipelines**  
+- 🌱 Currently learning **AWS advanced services**, **Terraform**, and **DevOps tools**
 <!---
 gowdasudarshan/gowdasudarshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
